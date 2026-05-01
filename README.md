@@ -1324,6 +1324,7 @@ A **curated, deduplicated, and community-driven** collection of **free public AP
 | [Postali](https://postali.app/api) | Mexico Zip Codes API | No | Yes | Yes | [Docs](https://postali.app/api) |
 | [PostcodeData.nl](http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json) | Provide geolocation data based on postcode for Dutch addresses | No | No | Unknown | [Docs](http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json) |
 | [Postcodes.io](https://postcodes.io) | Postcode lookup & Geolocation for the UK | No | Yes | Yes | [Docs](https://postcodes.io) |
+| [PostalCodes](https://postalcodes.info/api) | Global postal code search, country exports and address validation data | No | Yes | No | [Docs](https://postalcodes.info/api) |
 | [Proweblook IP Checker](https://proweblook.com/ipapi) | Proweblook lookup & Geolocation | `apiKey` | Yes | Yes | [Docs](https://proweblook.com/ipapi) |
 | [Queimadas INPE](https://queimadas.dgi.inpe.br/queimadas/dados-abertos/) | Access to heat focus data (probable wildfire) | No | Yes | Unknown | [Docs](https://queimadas.dgi.inpe.br/queimadas/dados-abertos/) |
 | [REST Countries](https://restcountries.eu) | Get information about countries via a RESTful API | No | Yes | Unknown | [Docs](https://restcountries.eu) |
