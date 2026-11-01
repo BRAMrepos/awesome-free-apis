@@ -1769,6 +1769,7 @@ A **curated, deduplicated, and community-driven** collection of **free public AP
 | [Advice Slip](http://api.adviceslip.com/) | Generate random advice slips | No | Yes | Unknown | [Docs](http://api.adviceslip.com/) |
 | [akshaykumar-rest](https://akshaykumar-rest.vercel.app/) | Akshay Kumar for every HTTP status code | No | Yes | Yes | [Docs](https://akshaykumar-rest.vercel.app/) |
 | [Biriyani As A Service](https://biriyani.anoram.com/) | Biriyani images placeholder | No | Yes | No | [Docs](https://biriyani.anoram.com/) |
+| [Bucketlist.nl Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) | One daily travel or life-experience idea in Dutch JSON | No | Yes | Yes | [Docs](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) |
 | [chucknorris.io](https://api.chucknorris.io) | JSON API for hand curated Chuck Norris jokes | No | Yes | Unknown | [Docs](https://api.chucknorris.io) |
 | [Dev.to](https://developers.forem.com/api) | Access Forem articles, users and other resources via API | `apiKey` | Yes | Unknown | [Docs](https://developers.forem.com/api) |
 | [Dictum](https://github.com/fisenkodv/dictum) | API to get access to the collection of the most inspiring expressions of mankind | No | Yes | Unknown | [Docs](https://github.com/fisenkodv/dictum) |
