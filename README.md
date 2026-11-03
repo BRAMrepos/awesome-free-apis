@@ -780,6 +780,7 @@ A **curated, deduplicated, and community-driven** collection of **free public AP
 
 | API | Description | Auth | HTTPS | CORS | Link |
 | --- | --- | --- | --- | --- | --- |
+| [KaijuConverter](https://kaijuconverter.com/api-docs) | Convert 201+ file formats (HEIC, PDF, DOCX, CSV, ODS, RAW, CAD, MP4, MP3) & 54 Studio tools | `apiKey` | Yes | Yes | [Docs](https://kaijuconverter.com/api-docs) |
 | [Airtable](https://airtable.com/api) | Integrate with Airtable | `apiKey` | Yes | Unknown | [Docs](https://airtable.com/api) |
 | [Api2Convert](https://www.api2convert.com/) | Online File Conversion API | `apiKey` | Yes | Unknown | [Docs](https://www.api2convert.com/) |
 | [Asana](https://developers.asana.com/docs) | Programmatic access to all data in your asana system | `apiKey` | Yes | Yes | [Docs](https://developers.asana.com/docs) |
